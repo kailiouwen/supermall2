@@ -1,6 +1,6 @@
-# mall
-
-## Project setup
+＃购物中心
+接口可联系：1147536615@qq.com
+##项目设置
 ```
 npm install
 ```
